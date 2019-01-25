@@ -25,4 +25,4 @@ This repository gives the information about me. This repo is used for creating n
 
 My name is Venkatesh Kunduru. Currently, pursuing my masters in Applied Computer Science in Northwest Missouri State University.
 
-- [vscode image]()
+- ![Hosted image](https://github.com/venkateshkunduru123/aboutme/raw/master/pexels-photo-1108099.jpeg "I love my Pets")
