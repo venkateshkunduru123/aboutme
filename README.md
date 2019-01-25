@@ -2,8 +2,8 @@
 
 ## Repository Links
 
-- [Webpage](https://github.com/venkateshkunduru123/aboutme)
-- [Source](https://venkateshkunduru123.github.io/aboutme/)
+- [source repository][https://github.com/venkateshkunduru123/aboutme](https://github.com/venkateshkunduru123/aboutme)
+- [hosted page][https://venkateshkunduru123.github.io/aboutme/](https://venkateshkunduru123.github.io/aboutme/)
 
 ## About
 
