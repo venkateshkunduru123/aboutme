@@ -17,9 +17,9 @@ This repository gives the information about me. This repo is used for creating n
 
 ## Recommended Resources
 
-- [Markdown] (https://www.markdownguide.org/cheat-sheet)
-- [GitHub Pages] (https://pages.github.com/)
-- [Bitbucket] (https://confluence.atlassian.com/bitbucket)
+- [Markdown](https://www.markdownguide.org/cheat-sheet)
+- [GitHub Pages](https://pages.github.com/)
+- [Bitbucket](https://confluence.atlassian.com/bitbucket)
 
 ## Contributors
 
