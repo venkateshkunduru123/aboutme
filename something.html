@@ -59,17 +59,17 @@ background-size: cover;background-position: center;background-repeat: no-repeat;
                 <h1>Area of rectangle</h1>
         
               <div class="container">
-                    <form name="myForm" onsubmit="myFunction()">
-                        Enter length: <input type="text" name="length" required><br>
-                        Enter breadth: <input type="text" name="breadth" required><br>
-                        <input type="submit" value="Submit">
-                      </form>
+                        Enter length: <input type="text" name="length" id= "length" required><br><br>
+                        Enter breadth: <input type="text" name="breadth" id= "breadth" required><br>
+                        <button type="button" onclick="myFunction()">Submit</button>
+                      <p id="result"></p>
                       
                       <script>
                       function myFunction() {
-                      var x = document.forms["myForm"]["length"].value;
-                      var y = document.forms["myForm"]["breadth"].value;
-                       window.alert("Area Of Your Given Rectangle is : " + x*y);
+                      var x = document.getElementById("length").value;
+                      var y = document.getElementById("breadth").value;
+                      const answer = "Area Of Your Given Rectangle is : " + x*y;
+                       document.getElementById("result").innerHTML= answer;
                       }
                       </script>
               </div>
