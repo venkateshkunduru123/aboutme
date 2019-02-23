@@ -19,7 +19,7 @@ QUnit.test( "TestArea", function( assert )
 
 QUnit.test( "TestArea", function( assert ) 
 {
-            var res = area(2,2);
+            var res = area(-2,2);
             assert.equal( res, "4", "Area of rectangle with these inputs will be 4" );
 });
 
